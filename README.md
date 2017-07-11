@@ -2,7 +2,12 @@
 Ele recebe informacoes de um controle infravermelho e acende um led para cada tecla digital
 
 # materiais 
-3 led,jumperes,4 resistores,1 arduino uno,programacao e controle
+- 3 leds
+- jumperes,
+ - 4 resistores,
+ - 1 arduino uno,
+ - programacao 
+ - controle
 
 # algoritimo
 Ele recebe informacoes de um controle infravermelho e acende um led para cada tecla digital 
@@ -11,5 +16,5 @@ Ele recebe informacoes de um controle infravermelho e acende um led para cada te
 Pinos 12-11-10-9
 
 # nome da placa
-IR remote 
-Arduino 
+- IR remote 
+- Arduino 
